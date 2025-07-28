@@ -1,0 +1,64 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎂 Happy Birthday Ahammed 🎂</title>
+  <style>
+    body {
+      background-color: #0d1117;
+      color: #c9d1d9;
+      font-family: 'Courier New', Courier, monospace;
+      padding: 50px 20px;
+      text-align: center;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      background-color: #161b22;
+      padding: 40px;
+      border-radius: 15px;
+      border-left: 6px solid #3fb950;
+      box-shadow: 0 0 10px rgba(63, 185, 80, 0.3);
+    }
+    .title {
+      font-size: 2rem;
+      color: #58a6ff;
+      margin-bottom: 20px;
+    }
+    .message {
+      font-size: 1.1rem;
+      margin-bottom: 25px;
+      line-height: 1.6;
+    }
+    .signature {
+      margin-top: 30px;
+      font-size: 1rem;
+      color: #f7768e;
+    }
+    .footer {
+      margin-top: 50px;
+      font-size: 0.8rem;
+      color: #8b949e;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="title">🎉 Happy Birthday Ahammed 🎉</div>
+    <div class="message">
+      Aaj ka din aapke liye bahut khaas hai 💖<br>
+      Har lamha aapki khushi ke naam ho,<br>
+      Aapki muskurahat meri dua hai,<br>
+      Aur aapki har ek baat mere dil ke kareeb hai.<br><br>
+      Ye chhota sa tohfa, ek pyare se dost ke liye 💌
+    </div>
+    <div class="signature">
+      From your one and only,<br>
+      Naaz 💙
+    </div>
+    <div class="footer">
+      Website made with 💙 and dosti | GitHub-style birthday surprise for Ahammed
+    </div>
+  </div>
+</body>
+</html>
